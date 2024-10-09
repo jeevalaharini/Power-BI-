@@ -70,8 +70,6 @@ A card visual was used to represent Total profit.
 
  ![Screenshot 2024-10-09 144222](https://github.com/user-attachments/assets/9926eb2a-ae37-4b29-b96a-30be5339a58d)
  
- 
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 
 # Snapshot of Dashboard (Power BI Service)
 
