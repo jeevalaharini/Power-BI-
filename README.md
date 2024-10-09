@@ -64,12 +64,11 @@ A card visual was used to represent Total profit.
 
  A card visual was used to represent this total Quantity.
 
- 
- 
- 
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
+ ![Screenshot 2024-10-09 144211](https://github.com/user-attachments/assets/99c76b97-9652-4965-9366-9f6d1700a12b)
  
  A card visual was used to represent Total cost
+
+ 
  
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
