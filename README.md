@@ -60,11 +60,11 @@ A card visual was used to represent Total profit.
  
  A card visual was used to represent Total sales.
  
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+![Screenshot 2024-10-09 144155](https://github.com/user-attachments/assets/7f784790-f870-4d9c-a321-b3f8d6fa16f1)
+
+ A card visual was used to represent this total Quantity.
 
  
- 
- A card visual was used to represent this total Quantity.
  
  
  ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
