@@ -75,7 +75,7 @@ A card visual was used to represent Total profit.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![Screenshot 2024-10-09 151004](https://github.com/user-attachments/assets/eba36c63-142e-48f3-aeb7-f7fdaeef018e)
 
  
  # Report Snapshot (Power BI DESKTOP)
