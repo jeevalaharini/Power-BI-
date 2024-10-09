@@ -1,4 +1,4 @@
-# Power-BI-# Company sales-Dashboard
+# Company sales-Dashboard
 
 ### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiOTA2MGRlMTEtY2Y3ZC00YTQwLWJmNGYtMzQyOTE2OGI3M2IyIiwidCI6ImY2YTk1ODhlLTJkYmEtNGJmYS1iMWU1LTlhYWRmMjk5NDU2ZCJ9
 
